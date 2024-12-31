@@ -1,0 +1,1 @@
+return { Easy = 5, Medium = 0, Hard = 0, Insane = 0, }
